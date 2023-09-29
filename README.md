@@ -11,6 +11,6 @@ mysql
 ## Usage
 Open the terminal in index.js and run npm start.
 
-## License
 
 
+https://github.com/itsadrih/EMPLOYEE-TRACKER
