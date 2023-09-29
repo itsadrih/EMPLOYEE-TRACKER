@@ -6,7 +6,7 @@ This is a command-line application is supposed to keep records of employee roles
 
 ## Installation
 node.js
-mysql
+mysql2
 
 ## Usage
 Open the terminal in index.js and run npm start.
